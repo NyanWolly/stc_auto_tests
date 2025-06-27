@@ -1,1 +1,1 @@
-# st-_auto_tests
+# stc_auto_tests
